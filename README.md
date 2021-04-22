@@ -3,7 +3,7 @@ CS330 @SNHU
 
 Project Reflection
 
-	At the start of this term, my knowledge of OpenGL was close to zero. I knew of OpenGL and the applications that could be created using the given libraires. This course has
+At the start of this term, my knowledge of OpenGL was close to zero. I knew of OpenGL and the applications that could be created using the given libraires. This course has
 given me a better appreciation for modeling applications like Blender and Unity. I was eager to learn and apply the material taught in this course. After reviewing the 
 requirements for the final project, I had several ideas of what I wanted to recreate. I wanted something big, yet somewhat simplistic. Of all my ideas, I finally decided to 
 recreate a model of the house I grew up in. The use of different shapes, lines, and textures could be used to recreate such a structure. My application of knowledge has grown 
@@ -11,7 +11,7 @@ exponentially over the weeks. I have spent countless hours reading materials, wa
 and reading material, I was able to set up an environment to build my model. What started out as a simple triangle is now over 4500 lines of code that show a relatively accurate 
 depiction of my childhood home. 
 
-	The model that is shown consists of several simplistic objects that combine to make complex objects. When I first started working on this project, I used one array of 
+The model that is shown consists of several simplistic objects that combine to make complex objects. When I first started working on this project, I used one array of 
 vertices and tried to recreate my model by making one very complex object. This array also included the texture coordinates. After a few weeks I ran into the problem of needing 
 more textures, more shapes, and a need for separation. I made the change in my code to allow the use of multiple arrays for vertices, and later further separated these arrays into 
 coordinates and texture coordinates. 
@@ -27,5 +27,5 @@ the camera, and the scroll wheel can be used to speed up or slow down the speed 
 up or down the Y-axis. The model that has been created is hard to fit in its entirety onto the screen at one time. To resolve this issue, an orthographic view of the model can be 
 view by pressing the ‘p’ key.
 
-	Overall, this class was an absolute blast to participate in. I have enjoyed learning new and exciting concepts each week, and then given the ability to apply these 
+Overall, this class was an absolute blast to participate in. I have enjoyed learning new and exciting concepts each week, and then given the ability to apply these 
 concepts to recreate a piece of my childhood. 
